@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <link rel="stylesheet" href="./style.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="style.css" type="text/css" media="screen">
     </head>
     <body>
     
@@ -34,5 +34,5 @@
         <script src="//cdnjs.cloudflare.com/ajax/libs/fixto/0.5.0/fixto.min.js"></script>
         <script src="../../dist/two-step.js" type="text/javascript" charset="utf-8"></script>
 
-        <script src="./script.js" type="text/javascript" charset="utf-8"></script>
+        <script src="script.js" type="text/javascript" charset="utf-8"></script>
         </body> </html>
