@@ -32,7 +32,5 @@
         <script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/noframework.waypoints.min.js"></script>
         <script src="//code.jquery.com/jquery-latest.min.js"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/fixto/0.5.0/fixto.min.js"></script>
-        <script src="../../dist/two-step.js" type="text/javascript" charset="utf-8"></script>
-
         <script src="./script.js" type="text/javascript" charset="utf-8"></script>
         </body> </html>
