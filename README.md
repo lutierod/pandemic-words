@@ -6,8 +6,6 @@
         <link rel="stylesheet" href="./style.css" type="text/css" media="screen">
     </head>
     <body>
-        
-        <h1>One-column layout</h1>
     
         <p><a href="../viewer.html?one-column">View source code</a><p>
         
